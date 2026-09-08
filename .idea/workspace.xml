@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e54c398c-13ab-42a0-aca0-6199495790b2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ArrayProblems/src/RemoveDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArrayProblems/src/Rotate90Degree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArrayProblems/src/ThirdLargestNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArrayProblems/src/TwoSumNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArrayProblems/src/ValidParenthesis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArrayProblems/src/ZeroEnd.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -116,7 +120,12 @@
     "Application.OccurrenceCount.executor": "Run",
     "Application.ParenthesisCheck.executor": "Run",
     "Application.RemoveDuplicates.executor": "Run",
+    "Application.Rotate90Degree.executor": "Run",
     "Application.SecondLargestNumArr.executor": "Run",
+    "Application.ThirdLargestNumber.executor": "Run",
+    "Application.TwoSumNumbers.executor": "Run",
+    "Application.ValidParenthesis.executor": "Run",
+    "Application.ZeroEnd.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",

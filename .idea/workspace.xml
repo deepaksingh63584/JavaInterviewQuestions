@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e54c398c-13ab-42a0-aca0-6199495790b2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ArrayProblems/src/Rotate90Degree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArrayProblems/src/ThirdLargestNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArrayProblems/src/TwoSumNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArrayProblems/src/ValidParenthesis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArrayProblems/src/ZeroEnd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StringProblems/StringProblems.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StringProblems/src/AnagramCheck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -18,7 +16,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="5" />
+    <option name="cachedIndexableFilesCount" value="18" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -30,18 +28,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "deepaksingh63584"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;deepaksingh63584&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/deepaksingh63584/JavaInterviewQuestions.git",
-    "accountId": "dde520ae-7d9e-459e-9fb7-c41467b92f21"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/deepaksingh63584/JavaInterviewQuestions.git&quot;,
+    &quot;accountId&quot;: &quot;dde520ae-7d9e-459e-9fb7-c41467b92f21&quot;
   }
-}]]></component>
+}</component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
@@ -105,10 +103,10 @@
       <entry key="W1" value="4.502738762340745" />
     </decayedShown>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8,
-  "fromUser": false
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3IsdV2Vejg3kqx84JSIgIDwIPX3" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -131,6 +129,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
@@ -141,7 +140,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Study/JavaBackend2026/ArrayProblems/src/Main.java"
+    "onboarding.tips.debug.path": "C:/Study/JavaBackend2026/StringProblems/src/Main.java"
   }
 }]]></component>
   <component name="SharedIndexes">

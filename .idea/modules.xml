@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ArrayProblems/ArrayProblems.iml" filepath="$PROJECT_DIR$/ArrayProblems/ArrayProblems.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/JavaBackend2026.iml" filepath="$PROJECT_DIR$/.idea/JavaBackend2026.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StringProblems/StringProblems.iml" filepath="$PROJECT_DIR$/StringProblems/StringProblems.iml" />
     </modules>
   </component>
 </project>

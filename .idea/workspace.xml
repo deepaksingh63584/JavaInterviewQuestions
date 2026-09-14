@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e54c398c-13ab-42a0-aca0-6199495790b2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/StringProblems/src/LongestSubstringWithoutRepeat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StringProblems/src/Palindrome.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -117,6 +117,7 @@
     "Application.CharGetFrequency.executor": "Run",
     "Application.FirstNonRepeatCharInString.executor": "Run",
     "Application.LongestPalindromicSubstring.executor": "Run",
+    "Application.LongestSubstringWithoutRepeat.executor": "Run",
     "Application.OccurrenceCount.executor": "Run",
     "Application.ParenthesisCheck.executor": "Run",
     "Application.RemoveDuplicates.executor": "Run",

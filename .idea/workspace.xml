@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e54c398c-13ab-42a0-aca0-6199495790b2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/StringProblems/src/ReverseString.java" afterDir="false" />
-    </list>
+    <list default="true" id="e54c398c-13ab-42a0-aca0-6199495790b2" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -122,6 +120,7 @@
     "Application.ParenthesisCheck.executor": "Run",
     "Application.RemoveDuplicates.executor": "Run",
     "Application.ReverseEachWord.executor": "Run",
+    "Application.ReverseString.executor": "Run",
     "Application.Rotate90Degree.executor": "Run",
     "Application.SecondLargestNumArr.executor": "Run",
     "Application.ThirdLargestNumber.executor": "Run",

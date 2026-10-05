@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e54c398c-13ab-42a0-aca0-6199495790b2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/CodeSignal/src/largestNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeSignal/src/MaxRating.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,61 +44,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0" />
-      <entry key="S2" value="1.0" />
-      <entry key="S5" value="1.0" />
-      <entry key="S10" value="1.0" />
-      <entry key="S30" value="1.0" />
-      <entry key="S60" value="1.0" />
-      <entry key="M2" value="1.0" />
-      <entry key="M5" value="1.0" />
-      <entry key="M10" value="1.0" />
-      <entry key="M15" value="1.0" />
-      <entry key="M30" value="1.0" />
-      <entry key="H1" value="1.0" />
-      <entry key="H2" value="1.0000000000373137" />
-      <entry key="H4" value="1.000006108487636" />
-      <entry key="D1" value="1.135203816165463" />
-      <entry key="W1" value="1.7513729641697953" />
+      <entry key="MS100" value="1.285190928967106" />
+      <entry key="MS500" value="1.7780851765554186" />
+      <entry key="S2" value="1.9391971918597162" />
+      <entry key="S5" value="1.9752202579218179" />
+      <entry key="S10" value="1.9875324085425339" />
+      <entry key="S30" value="1.9958267443453126" />
+      <entry key="S60" value="1.9979111906103233" />
+      <entry key="M2" value="1.9989550493442252" />
+      <entry key="M5" value="1.9995818886339913" />
+      <entry key="M10" value="1.9997909224602868" />
+      <entry key="M15" value="1.9998606101160268" />
+      <entry key="M30" value="1.9999303026291515" />
+      <entry key="H1" value="1.9999651507073393" />
+      <entry key="H2" value="1.999982575239171" />
+      <entry key="H4" value="1.9999973959973918" />
+      <entry key="D1" value="2.135202167760853" />
+      <entry key="W1" value="2.751372600865235" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="3.362749439711799E-5" />
-      <entry key="MS500" value="0.13461877195533134" />
-      <entry key="S2" value="0.8884772360289251" />
-      <entry key="S5" value="1.4241343770766506" />
-      <entry key="S10" value="1.6833450386368" />
-      <entry key="S30" value="1.8872447472834266" />
-      <entry key="S60" value="1.9426648894534533" />
-      <entry key="M2" value="1.9710885608559467" />
-      <entry key="M5" value="1.9883763042498372" />
-      <entry key="M10" value="1.994178249342474" />
-      <entry key="M15" value="1.996116628599213" />
-      <entry key="M30" value="1.998057211230845" />
-      <entry key="H1" value="1.9990283296754254" />
-      <entry key="H2" value="1.9995140958684758" />
-      <entry key="H4" value="1.999763144210359" />
-      <entry key="D1" value="2.1351819842146122" />
-      <entry key="W1" value="2.7513819964123325" />
+      <entry key="MS100" value="9.590256365950227E-6" />
+      <entry key="MS500" value="0.10474487094453763" />
+      <entry key="S2" value="0.8344553251096487" />
+      <entry key="S5" value="1.3888446945280186" />
+      <entry key="S10" value="1.6623577804131238" />
+      <entry key="S30" value="1.879368792470047" />
+      <entry key="S60" value="1.9386070327913674" />
+      <entry key="M2" value="1.9690288705716898" />
+      <entry key="M5" value="1.987544941517128" />
+      <entry key="M10" value="1.993761311460352" />
+      <entry key="M15" value="1.9958383901339554" />
+      <entry key="M30" value="1.9979179518964176" />
+      <entry key="H1" value="1.9989586649521274" />
+      <entry key="H2" value="1.999479254738973" />
+      <entry key="H4" value="1.9997457213999013" />
+      <entry key="D1" value="2.1351788837635945" />
+      <entry key="W1" value="2.751381425666039" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.021944507183325922" />
-      <entry key="MS500" value="0.5014728610640717" />
-      <entry key="S2" value="1.3709197631721148" />
-      <entry key="S5" value="2.0573755133275586" />
-      <entry key="S10" value="2.452819705735452" />
-      <entry key="S30" value="2.7968097441391238" />
-      <entry key="S60" value="2.895508866192524" />
-      <entry key="M2" value="2.9470059869718823" />
-      <entry key="M5" value="2.978619538097351" />
-      <entry key="M10" value="2.989279019485961" />
-      <entry key="M15" value="2.9928458260098925" />
-      <entry key="M30" value="2.996419481063335" />
-      <entry key="H1" value="2.9982088815852386" />
-      <entry key="H2" value="2.9991042260104015" />
-      <entry key="H4" value="2.999564277409269" />
-      <entry key="D1" value="3.270337377365236" />
-      <entry key="W1" value="4.502738762340745" />
+      <entry key="MS100" value="0.291449303356444" />
+      <entry key="MS500" value="1.168273776194208" />
+      <entry key="S2" value="2.2267611836959533" />
+      <entry key="S5" value="2.981614536671152" />
+      <entry key="S10" value="3.4097713602680537" />
+      <entry key="S30" value="3.7809646864046234" />
+      <entry key="S60" value="3.8873718906952517" />
+      <entry key="M2" value="3.9428815604774483" />
+      <entry key="M5" value="3.976956032047448" />
+      <entry key="M10" value="3.9884449508433377" />
+      <entry key="M15" value="3.992289263693482" />
+      <entry key="M30" value="3.9961409411326976" />
+      <entry key="H1" value="3.9980695468338054" />
+      <entry key="H2" value="3.999034542426514" />
+      <entry key="H4" value="3.999529431457377" />
+      <entry key="D1" value="4.270331176501813" />
+      <entry key="W1" value="5.5027376208533925" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -118,6 +118,7 @@
     "Application.FirstNonRepeatCharInString.executor": "Run",
     "Application.LongestPalindromicSubstring.executor": "Run",
     "Application.LongestSubstringWithoutRepeat.executor": "Run",
+    "Application.MaxRating.executor": "Run",
     "Application.NewsAlignment.executor": "Run",
     "Application.OccurrenceCount.executor": "Run",
     "Application.Palindrome.executor": "Run",
@@ -132,6 +133,7 @@
     "Application.TwoSumNumbers.executor": "Run",
     "Application.ValidParenthesis.executor": "Run",
     "Application.ZeroEnd.executor": "Run",
+    "Application.largestNumber.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -172,5 +174,20 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/CodeSignal/src/MaxRating.java</url>
+          <line>1</line>
+          <properties class="MaxRating" method="maxAndCurrentRating">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

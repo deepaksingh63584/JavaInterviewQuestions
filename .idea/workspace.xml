@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e54c398c-13ab-42a0-aca0-6199495790b2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/CodeSignal/src/secondLargestNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeSignal/MaxRating.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeSignal/NewsAlignment.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeSignal/NonZero.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeSignal/SmallerGreaterTie.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeSignal/largestNumber.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

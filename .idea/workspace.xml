@@ -5,7 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e54c398c-13ab-42a0-aca0-6199495790b2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/CodeSignal/src/travelerSolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/CodeSignal/src/travelerSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeSignal-Karat/src/DeliveryTracking/DeliveryRecord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeSignal-Karat/src/DeliveryTracking/DeliverySolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeSignal-Karat/src/DeliveryTracking/DeliveryTracker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeSignal-Karat/src/DeliveryTracking/Package.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeSignal/CodeSignal.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CodeSignal-Karat/CodeSignal-Karat.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeSignal/src/MaxRating.java" beforeDir="false" afterPath="$PROJECT_DIR$/CodeSignal-Karat/src/MaxRating.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeSignal/src/NewsAlignment.java" beforeDir="false" afterPath="$PROJECT_DIR$/CodeSignal-Karat/src/NewsAlignment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeSignal/src/NonZero.java" beforeDir="false" afterPath="$PROJECT_DIR$/CodeSignal-Karat/src/NonZero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeSignal/src/SmallerGreaterTie.java" beforeDir="false" afterPath="$PROJECT_DIR$/CodeSignal-Karat/src/SmallerGreaterTie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeSignal/src/largestNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/CodeSignal-Karat/src/largestNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeSignal/src/secondLargestNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/CodeSignal-Karat/src/secondLargestNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeSignal/src/travelerSolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/CodeSignal-Karat/src/travelerSolution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,61 +56,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.285190928967106" />
-      <entry key="MS500" value="1.7780851765554186" />
-      <entry key="S2" value="1.9391971918597162" />
-      <entry key="S5" value="1.9752202579218179" />
-      <entry key="S10" value="1.9875324085425339" />
-      <entry key="S30" value="1.9958267443453126" />
-      <entry key="S60" value="1.9979111906103233" />
-      <entry key="M2" value="1.9989550493442252" />
-      <entry key="M5" value="1.9995818886339913" />
-      <entry key="M10" value="1.9997909224602868" />
-      <entry key="M15" value="1.9998606101160268" />
-      <entry key="M30" value="1.9999303026291515" />
-      <entry key="H1" value="1.9999651507073393" />
-      <entry key="H2" value="1.999982575239171" />
-      <entry key="H4" value="1.9999973959973918" />
-      <entry key="D1" value="2.135202167760853" />
-      <entry key="W1" value="2.751372600865235" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0" />
+      <entry key="S10" value="1.0" />
+      <entry key="S30" value="1.0" />
+      <entry key="S60" value="1.0" />
+      <entry key="M2" value="1.0" />
+      <entry key="M5" value="1.0" />
+      <entry key="M10" value="1.0" />
+      <entry key="M15" value="1.0" />
+      <entry key="M30" value="1.0" />
+      <entry key="H1" value="1.0" />
+      <entry key="H2" value="1.0" />
+      <entry key="H4" value="1.0000000065785926" />
+      <entry key="D1" value="1.0823422875903013" />
+      <entry key="W1" value="2.728127110280454" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="9.590256365950227E-6" />
-      <entry key="MS500" value="0.10474487094453763" />
-      <entry key="S2" value="0.8344553251096487" />
-      <entry key="S5" value="1.3888446945280186" />
-      <entry key="S10" value="1.6623577804131238" />
-      <entry key="S30" value="1.879368792470047" />
-      <entry key="S60" value="1.9386070327913674" />
-      <entry key="M2" value="1.9690288705716898" />
-      <entry key="M5" value="1.987544941517128" />
-      <entry key="M10" value="1.993761311460352" />
-      <entry key="M15" value="1.9958383901339554" />
-      <entry key="M30" value="1.9979179518964176" />
-      <entry key="H1" value="1.9989586649521274" />
-      <entry key="H2" value="1.999479254738973" />
-      <entry key="H4" value="1.9997457213999013" />
-      <entry key="D1" value="2.1351788837635945" />
-      <entry key="W1" value="2.751381425666039" />
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="5.130486824622446E-204" />
+      <entry key="M15" value="3.7478509733009924E-136" />
+      <entry key="M30" value="2.7378277427550403E-68" />
+      <entry key="H1" value="2.3400118091146492E-34" />
+      <entry key="H2" value="2.163336213275856E-17" />
+      <entry key="H4" value="6.577764719301201E-9" />
+      <entry key="D1" value="0.08234138966240137" />
+      <entry key="W1" value="1.7281326531056995" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.291449303356444" />
-      <entry key="MS500" value="1.168273776194208" />
-      <entry key="S2" value="2.2267611836959533" />
-      <entry key="S5" value="2.981614536671152" />
-      <entry key="S10" value="3.4097713602680537" />
-      <entry key="S30" value="3.7809646864046234" />
-      <entry key="S60" value="3.8873718906952517" />
-      <entry key="M2" value="3.9428815604774483" />
-      <entry key="M5" value="3.976956032047448" />
-      <entry key="M10" value="3.9884449508433377" />
-      <entry key="M15" value="3.992289263693482" />
-      <entry key="M30" value="3.9961409411326976" />
-      <entry key="H1" value="3.9980695468338054" />
-      <entry key="H2" value="3.999034542426514" />
-      <entry key="H4" value="3.999529431457377" />
-      <entry key="D1" value="4.270331176501813" />
-      <entry key="W1" value="5.5027376208533925" />
+      <entry key="MS100" value="0.9201876506248751" />
+      <entry key="MS500" value="0.9835020740262483" />
+      <entry key="S2" value="0.9958497530944581" />
+      <entry key="S5" value="0.9983378297043665" />
+      <entry key="S10" value="0.999168569213607" />
+      <entry key="S30" value="0.9997227795604651" />
+      <entry key="S60" value="0.9998613801725043" />
+      <entry key="M2" value="0.9999306876841536" />
+      <entry key="M5" value="0.9999722744971364" />
+      <entry key="M10" value="0.999986137152479" />
+      <entry key="M15" value="0.9999907580802994" />
+      <entry key="M30" value="0.999995379029473" />
+      <entry key="H1" value="0.9999976895120674" />
+      <entry key="H2" value="0.9999988447553664" />
+      <entry key="H4" value="0.9999994355331707" />
+      <entry key="D1" value="1.1646816575936894" />
+      <entry key="W1" value="4.456249445286704" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -134,6 +147,8 @@
     "Application.ValidParenthesis.executor": "Run",
     "Application.ZeroEnd.executor": "Run",
     "Application.largestNumber.executor": "Run",
+    "Application.secondLargestNumber.executor": "Run",
+    "Application.travelerSolution.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -179,7 +194,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/CodeSignal/src/MaxRating.java</url>
+          <url>file://$PROJECT_DIR$/CodeSignal-Karat/src/MaxRating.java</url>
           <line>1</line>
           <properties class="MaxRating" method="maxAndCurrentRating">
             <option name="EMULATED" value="true" />

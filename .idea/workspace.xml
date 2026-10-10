@@ -5,25 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e54c398c-13ab-42a0-aca0-6199495790b2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/CodeSignal-Karat/src/DeliveryTracking/DeliveryRecord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeSignal-Karat/src/DeliveryTracking/DeliverySolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeSignal-Karat/src/DeliveryTracking/DeliveryTracker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeSignal-Karat/src/DeliveryTracking/Package.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeSignal-Karat/src/EducationPlateform/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeSignal/CodeSignal.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CodeSignal-Karat/CodeSignal-Karat.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeSignal/src/MaxRating.java" beforeDir="false" afterPath="$PROJECT_DIR$/CodeSignal-Karat/src/MaxRating.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeSignal/src/NewsAlignment.java" beforeDir="false" afterPath="$PROJECT_DIR$/CodeSignal-Karat/src/NewsAlignment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeSignal/src/NonZero.java" beforeDir="false" afterPath="$PROJECT_DIR$/CodeSignal-Karat/src/NonZero.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeSignal/src/SmallerGreaterTie.java" beforeDir="false" afterPath="$PROJECT_DIR$/CodeSignal-Karat/src/SmallerGreaterTie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeSignal/src/largestNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/CodeSignal-Karat/src/largestNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeSignal/src/secondLargestNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/CodeSignal-Karat/src/secondLargestNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeSignal/src/travelerSolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/CodeSignal-Karat/src/travelerSolution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_C:/Study/JavaBackend2026" value="3KVLK7eeDFYSMhIH5K9KplpKPCt" />
+    </persistenceIdMap>
   </component>
   <component name="EmbeddingIndexingInfo">
     <option name="cachedIndexableFilesCount" value="28" />
@@ -118,6 +111,21 @@
   &quot;fromUser&quot;: false
 }</component>
   <component name="ProjectId" id="3IsdV2Vejg3kqx84JSIgIDwIPX3" />
+  <component name="ProjectSessionTemplates">
+    <option name="inlineTemplate">
+      <template>
+        <option name="modeId" value="Agent" />
+        <option name="model">
+          <model>
+            <option name="modelType" value="builtin_id" />
+            <option name="modelValue" value="auto" />
+          </model>
+        </option>
+        <option name="targetType" value="BACKGROUND" />
+        <option name="worktreeMode" value="WORKSPACE" />
+      </template>
+    </option>
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -127,6 +135,7 @@
     "Application.AnagramCheck.executor": "Run",
     "Application.Array2DTo1D.executor": "Run",
     "Application.CharGetFrequency.executor": "Run",
+    "Application.DeliverySolution.executor": "Run",
     "Application.FirstNonRepeatCharInString.executor": "Run",
     "Application.LongestPalindromicSubstring.executor": "Run",
     "Application.LongestSubstringWithoutRepeat.executor": "Run",
@@ -157,6 +166,7 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
+    "copilot.chat.legacySessionMetadata.migrated": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",

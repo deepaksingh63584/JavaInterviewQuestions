@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e54c398c-13ab-42a0-aca0-6199495790b2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/CodeSignal-Karat/src/EducationPlateform/Assignment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeSignal-Karat/src/EducationPlateform/GradeBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeSignal-Karat/src/EducationPlateform/GradeSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeSignal-Karat/src/GymMemebrship/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeSignal-Karat/src/GymMemebrship/MembershipStatistics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeSignal-Karat/src/GymMemebrship/MembershipStatus.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,6 +26,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>

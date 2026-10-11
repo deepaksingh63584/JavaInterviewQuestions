@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e54c398c-13ab-42a0-aca0-6199495790b2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/CodeSignal-Karat/src/GymMemebrship/GymMemberSolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeSignal-Karat/src/GymMemebrship/MemberWorkout.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeSignal-Karat/src/GymMemebrship/Membership.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeSignal-Karat/src/GymMemebrship/Workout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeSignal-Karat/src/HealthcareManagement/Appointment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeSignal-Karat/src/HealthcareManagement/ClinicScheduler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeSignal-Karat/src/HealthcareManagement/Patient.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

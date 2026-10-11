@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e54c398c-13ab-42a0-aca0-6199495790b2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/CodeSignal-Karat/src/GymMemebrship/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeSignal-Karat/src/GymMemebrship/MembershipStatistics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeSignal-Karat/src/GymMemebrship/MembershipStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeSignal-Karat/src/GymMemebrship/GymMemberSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeSignal-Karat/src/GymMemebrship/MemberWorkout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeSignal-Karat/src/GymMemebrship/Membership.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeSignal-Karat/src/GymMemebrship/Workout.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -141,6 +142,7 @@
     "Application.DeliverySolution.executor": "Run",
     "Application.FirstNonRepeatCharInString.executor": "Run",
     "Application.GradeSolution.executor": "Run",
+    "Application.GymMemberSolution.executor": "Run",
     "Application.LongestPalindromicSubstring.executor": "Run",
     "Application.LongestSubstringWithoutRepeat.executor": "Run",
     "Application.MaxRating.executor": "Run",
